@@ -136,11 +136,6 @@ A full HTML report with confusion matrices is generated under `reports/latest/` 
 
 ---
 
-## Roadmap
-
--
-
----
 
 ## Contributing
 
